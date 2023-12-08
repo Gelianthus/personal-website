@@ -55,7 +55,7 @@ function ProjectCard({
 					);
 				})}
 			</ul>
-			<div className="flex flex-row gap-4 justify-end">
+			<div className="flex flex-col text-center xs:text-start xs:flex-row gap-4 justify-end">
 				<Link
 					className="py-2 px-4 rounded text-sm bg-slate-950 hover:text-emerald-500 active:text-emerald-600"
 					href={`/projects/${projId}`}
