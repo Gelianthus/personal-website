@@ -25,12 +25,11 @@ function TechStack() {
 				</h2>
 				<div className="text-neutral-50">
 					<p className="rounded-t-2xl p-4 bg-slate-800">
-						Are you willing to learn this and that?
+						Are you willing to learn this and that for a project?
 					</p>
 					<p className="rounded-b-2xl p-4 bg-slate-700 mb-4">
-						I'm always looking for an opportunity to expand my stack. With that
-						said, I would appreciate it if I were to be given a generous amount
-						of time to practice the tool.
+						I'm always looking for an opportunity to expand my arsenal. At the
+						very least, I'll make sure to get the basics right if it's urgent.
 					</p>
 					<p className="rounded-t-2xl p-4 bg-slate-800">No TypeScript?</p>
 					<p className="rounded-b-2xl p-4 bg-slate-700 mb-4">

@@ -48,14 +48,14 @@ function Projects() {
 				</h2>
 				<p className="text-shadow shadow-black mb-4">
 					Each project represents a portion of my journey to become a Web
-					Developer. It doesn't necessarily show great results, but instead
+					Developer. It doesn't necessarily show great results, but it instead
 					tells the story of my learning progress. I wanted to encapsulate my
-					skill as truthful as I can to prevent expectations from building up.
+					skill as truthful as I can to avoid unrealistic expectations from me.
 				</p>
 				<p className="text-shadow shadow-black">
-					In my own bias opinion, I would say that my habits, techqniques, and
-					application skills have gotten better after each project. And
-					hopefully, inspecting these projects should reflect exactly that.
+					I do believe that my habits, techqniques, and application skills have
+					gotten better after each project. And hopefully, inspecting these
+					projects should reflect that.
 				</p>
 			</div>
 			{/* <p className="mb-8 text-sm text-neutral-400 px-2 bg-slate-700 rounded w-fit">

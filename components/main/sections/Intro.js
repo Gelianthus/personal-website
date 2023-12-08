@@ -26,8 +26,8 @@ function Intro() {
 					right person for your project by getting to know me better.
 				</p>
 				<p className="my-8 text-shadow shadow-black">
-					🛠 - I understand that some project requires certain tools, that's why
-					I have listed my tech stack down for you to decide if I have what
+					🛠 - I understand that some project may require certain tools, that's
+					why I have listed down my tech stack for you to see if I have what
 					you're looking for.
 				</p>
 				<p className="my-8 text-shadow shadow-black">

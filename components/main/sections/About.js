@@ -78,8 +78,7 @@ function About() {
 					taught myself how to code. I originally planned to become a game
 					developer but not knowing anything about programming, I didn't
 					realized that I was teaching myself web development. I figured I would
-					give it a try and see where it goes and so far have not regretted a
-					single thing.
+					give it a try and see where it takes me.
 				</p>
 				<h2
 					className={`${bree_serif.className} text-neutral-900 text-4xl mb-4 font-semibold`}
@@ -90,20 +89,21 @@ function About() {
 					It's been almost 2 years since then and I finally feel confident
 					enough involve myself in a professional setting. Throughout my
 					learning progress, I've only done freelancing work using WordPress
-					until a student reached out to me. It was the biggest gig that I've
-					ever gotten in comparison to the usual landing page or personal
-					website. I was asked to create an application similar to Facebook. It
-					was already hard enough of a task to clone Facebook, but they also
-					laid out a tech stack requirement for it which made it nearly
-					impossible considering the timeframe that I was given. Since I
-					couldn't really decline the offer, I had no choice but to expand my
-					tech stack while working on the project. In the end, the client was
-					able to get a passing grade and was fully satisfied with the result.
-					It took an extra amount of effort, but the payout at the end,
-					excluding the monetary gain, made it really worth the effort. The
-					hardships introduced me to a lot of new concepts, I got to learn new
-					techniques, I saw things from a different perspective, and most
-					importantly, I was able to recognize my strengths and weaknesses.
+					until a student reached out to me. It was the first time that I got
+					hired for a project that felt like an actual web development project,
+					different from the usual landing page and personal website projects. I
+					was asked to create an application similar to Facebook. It was already
+					hard enough of a task to clone Facebook, but they also laid out a tech
+					stack requirement for it which made it incredibly difficult
+					considering the timeframe that I was given. Since I couldn't really
+					decline the offer, I had no choice but to expand my tech stack while
+					working on the project. In the end, the client passed his subject and
+					was fully satisfied with the result. It took an extra amount of
+					effort, but the payout at the end, excluding the monetary gain, made
+					it really worth the effort. The hardships introduced me to a lot of
+					new concepts, I got to learn new techniques, I saw things from a
+					different perspective, and most importantly, I was able to recognize
+					my strengths and weaknesses.
 				</p>
 			</div>
 			<div className="my-8 flex flex-col sm:grid sm:grid-cols-2 gap-4 text-neutral-50">
@@ -186,7 +186,7 @@ function About() {
 					confidence but at the same time, I couldn't help but feel
 					dissatisfied. Yes, it ended up as a success, but I know I could have
 					done a better job at it. Whenever I revisit the project, all I see is
-					an improvement that could be made. Right now, I'm really eager to
+					improvements that could be made. Right now, I'm really eager to
 					challenge myself even more. This time, I would like to be on the
 					offensive end and start looking for opportunities.
 				</p>
