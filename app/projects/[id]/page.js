@@ -84,7 +84,7 @@ function ProjectPage({ params }) {
 					</ul>
 				</div>
 
-				<ul className="flex flex-row gap-4 bg-slate-800 p-4">
+				<ul className="flex flex-row flex-wrap gap-4 bg-slate-800 p-4">
 					{projStack.map((item, index) => {
 						const { imgSrc, imgAlt, techToolLink, techToolName } = item;
 						return (

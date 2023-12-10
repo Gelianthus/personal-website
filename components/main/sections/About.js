@@ -201,7 +201,7 @@ function About() {
 					<Link
 						className="p-2 hover:bg-amber-300 active:bg-yellow-400 rounded"
 						target="_blank"
-						href={"/"}
+						href={"https://github.com/Gelianthus"}
 						title="Github profile"
 					>
 						<i className="devicon-github-original text-4xl aspect-square"></i>
@@ -209,7 +209,9 @@ function About() {
 					<Link
 						className="p-2 hover:bg-amber-300 active:bg-yellow-400 rounded"
 						target="_blank"
-						href={"/"}
+						href={
+							"https://www.linkedin.com/in/angelo-nathaniel-tandoc-320984261/"
+						}
 						title="LinkedIn profile"
 					>
 						<i className="devicon-linkedin-plain text-4xl aspect-square"></i>
@@ -217,7 +219,7 @@ function About() {
 					<Link
 						className="p-2 hover:bg-amber-300 active:bg-yellow-400 rounded"
 						target="_blank"
-						href={"/"}
+						href={"https://www.facebook.com/profile.php?id=61550232111521"}
 						title="Facebook profile"
 					>
 						<i className="devicon-facebook-plain text-4xl aspect-square"></i>
@@ -225,7 +227,7 @@ function About() {
 					<Link
 						className="p-2 hover:bg-amber-300 active:bg-yellow-400 rounded"
 						target="_blank"
-						href={"/"}
+						href={"https://twitter.com/gelianthus"}
 						title="Twitter profile"
 					>
 						<i className="devicon-twitter-original text-4xl aspect-square"></i>

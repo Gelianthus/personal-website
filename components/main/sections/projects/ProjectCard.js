@@ -30,7 +30,7 @@ function ProjectCard({
 			<p className="">
 				{projDesc.length > 100 ? projDesc.slice(0, 100) + "..." : projDesc}
 			</p>
-			<ul className="flex flex-row gap-4 bg-slate-800 p-2">
+			<ul className="flex flex-row flex-wrap gap-4 bg-slate-800 p-2">
 				{projStack.map((item, index) => {
 					const { imgSrc, imgAlt, techToolLink, techToolName } = item;
 					return (
