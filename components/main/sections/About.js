@@ -77,8 +77,9 @@ function About() {
 					After deciding to halt my pursue in education, I bought a laptop and
 					taught myself how to code. I originally planned to become a game
 					developer but not knowing anything about programming, I didn't
-					realized that I was teaching myself web development. I figured I would
-					give it a try and see where it takes me.
+					realized that I was teaching myself web development. I figured that
+					since I've already put the time to learn it that I might as well see
+					it through. And so far, I'm really happy with the decision to do so.
 				</p>
 				<h2
 					className={`${bree_serif.className} text-neutral-900 text-4xl mb-4 font-semibold`}
@@ -117,8 +118,8 @@ function About() {
 						<li>
 							<h3 className="font-bold mb-2">Availability</h3>
 							<p className="mb-2">
-								When being a part of something, I always make sure to make it
-								easier for anyone involve to get a hold of me.
+								When being a part of something, I like to make sure that
+								everyone involve can easily get a hold of me.
 							</p>
 						</li>
 						<li>
@@ -152,7 +153,7 @@ function About() {
 								Jumped into frameworks prematurely
 							</h3>
 							<p className="mb-2">
-								A little bit behind in fundamentals which results in having to
+								Have not memorize fundamentals which results in having to
 								occasionally remind myself how certain things work by looking it
 								up or referring to previous projects.
 							</p>
@@ -168,7 +169,7 @@ function About() {
 							<h3 className="font-bold mb-2">Too lax</h3>
 							<p className="mb-2">
 								Can be too idle at times regardless of how difficult the task at
-								hand is. I've conditioned myself to perform at the very last
+								hand is. I've been conditioned to perform at the very last
 								moment.
 							</p>
 						</li>

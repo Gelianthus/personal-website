@@ -47,10 +47,9 @@ function Projects() {
 					Projects
 				</h2>
 				<p className="text-shadow shadow-black mb-4">
-					Each project represents a portion of my journey to become a Web
+					Each project represents each step of my journey to become a Web
 					Developer. It doesn't necessarily show great results, but it instead
-					tells the story of my learning progress. I wanted to encapsulate my
-					skill as truthful as I can to avoid unrealistic expectations from me.
+					tells the story of my learning progress.
 				</p>
 				<p className="text-shadow shadow-black">
 					I do believe that my habits, techqniques, and application skills have
