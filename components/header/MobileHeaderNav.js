@@ -10,7 +10,7 @@ function MobileHeaderNav() {
 	// 	{ id: "introduction" },
 	// 	{ id: "tech-stack" },
 	// 	{ id: "projects" },
-	// 	{ id: "ABOUT" },
+	// 	{ id: "about-me" },
 
 	// ];
 
